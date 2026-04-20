@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عيونك أرى أسرار الليل
+> وروحي تشتاق إليك مثل الويل
+> أنت النور الذي يمحو الظلام
+> معك يبدأ وينتهي الكلام
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
