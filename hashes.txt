@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kol Haga Betetghayar Beek
+
+This log tracks the cryptographic history and versioning for the song **Kol Haga Betetghayar Beek** (kol-haga-betetghayar-beek).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T16:00:01.460218 | `v1` | `0e70bcc7214b466c8833de9e3b6c52441fde8e750bde614741075214618f52fc` | `63fb59e5a385fc121a217a28c21882c914626a1a448b29509299f0044be03c13` | `2026-05-09_kol-haga-betetghayar-beek-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
